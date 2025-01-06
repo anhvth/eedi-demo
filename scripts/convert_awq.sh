@@ -1,0 +1,1 @@
+python scripts/to_awq.py $BASE_MODEL_32BIT $OUTPUT_DIR $OUTPUT_DIR/awq/
