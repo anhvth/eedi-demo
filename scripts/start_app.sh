@@ -1,0 +1,1 @@
+export PYTHONPATH=$(pwd) && chainlit run apps/chatbot_app.py -w
